@@ -3,3 +3,5 @@
 https://therecord.media/netwalker-ransomware-affiliate-extradited-to-the-us/
 
 https://www.crowdstrike.com/resources/reports/netwalker-ransomware-technical-analysis/
+
+https://therecord.media/fbi-doj-say-less-than-25-of-netwalker-ransomware-victims-reported-incidents/
