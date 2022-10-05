@@ -7,3 +7,5 @@ https://www.crowdstrike.com/resources/reports/netwalker-ransomware-technical-ana
 https://therecord.media/fbi-doj-say-less-than-25-of-netwalker-ransomware-victims-reported-incidents/
 
 https://therecord.media/netwalker-ransomware-affiliate-agrees-to-plead-guilty-to-hacking-charges
+
+https://www.securityweek.com/canadian-netwalker-ransomware-affiliate-gets-20-year-prison-sentence-us
